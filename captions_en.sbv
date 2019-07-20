@@ -1,0 +1,909 @@
+0:00:28.180,0:00:32.620
+People think the Slackware installation 
+is very hard but it's easy
+
+0:00:32.640,0:00:37.720
+the "complicated" part is in the post-installation
+
+0:00:37.820,0:00:42.100
+where the user will need read
+
+0:00:42.540,0:00:46.920
+(Long Live Slackware...)
+
+0:00:47.860,0:00:56.200
+The Slackware Project started when Patrick was student in Minnesota State University Moorhead
+
+0:00:56.420,0:01:02.520
+and he was looking for a Lisp interpreter
+
+0:01:02.520,0:01:07.820
+that's when he found in a GNU/Linux distribution called SLS, Softlanding Linux System
+
+0:01:08.200,0:01:12.840
+He then started using this system daily
+
+0:01:13.520,0:01:18.540
+to understand better about this new system,
+about this new undiscovered world at this time
+
+0:01:18.580,0:01:24.920
+then he found various bugs in this 
+distribuition, SLS, and begin fix it
+
+0:01:24.920,0:01:32.060
+in a short time he did more fixes than SLS project
+
+0:01:32.060,0:01:38.800
+they taken all patches,
+all fixes and send to SLS project
+
+0:01:38.800,0:01:42.440
+they not implemented the fixes
+
+0:01:42.460,0:01:47.780
+then, I think he was a little revolted
+
+0:01:47.780,0:01:53.160
+he made the decision to provide this project
+and will be called Slackware
+
+0:01:53.160,0:01:58.620
+17th of July, 1993, around midnight and sixteen
+
+0:01:58.620,0:02:04.435
+they make first version of 
+Slackware project available via FTP
+
+0:02:04.435,0:02:07.295
+the SLS was a first generation distribution
+
+0:02:07.300,0:02:10.445
+Slackware we can say was the second generation distribution
+
+0:02:10.445,0:02:14.700
+so it was not from the first delivery, since it was already based on that moment
+
+0:02:14.700,0:02:18.460
+but is a distribution with a recognized name
+
+0:02:18.460,0:02:26.080
+as it is also the oldest distribution still in development, to the present day
+
+0:02:28.900,0:02:32.440
+(For what purpose can Slackware be used?)
+
+0:02:33.140,0:02:38.840
+For several, since use in a server because Slackware is very stable
+
+0:02:38.900,0:02:43.880
+Slackware carries the trust of being a very stable distribution
+
+0:02:43.880,0:02:45.960
+like a rock, solid as a rock
+
+0:02:45.960,0:02:49.860
+can also be used in a common desktop
+for daily use
+
+0:02:49.860,0:02:52.960
+I like several people in the world
+
+0:02:52.960,0:02:59.400
+use Slackware distribution as their primary operating system
+
+0:02:59.520,0:03:02.900
+and can also be a distribution for academic use
+
+0:03:02.900,0:03:05.505
+to use in colleges or even at home, anyway ...
+
+0:03:05.505,0:03:07.920
+for you to study the system
+
+0:03:07.920,0:03:11.560
+Of course there are many things nowadays in the others distributions
+
+0:03:11.560,0:03:14.440
+that were evolving and Slackware left behind
+
+0:03:14.440,0:03:19.500
+Slackware was not following all the technology that we have today in GNU/Linux
+
+0:03:19.500,0:03:24.160
+it left a lot behind things like PAM, SystemD and others
+
+0:03:24.160,0:03:31.380
+but you learn how to setup the whole system in text mode
+
+0:03:31.380,0:03:34.220
+so there's no cute interface to click on
+
+0:03:34.220,0:03:37.240
+you just open any notep... no notepad (hehe)
+
+0:03:37.240,0:03:47.760
+You just open any text editor and can edit in its most
+
+0:03:47.760,0:03:50.180
+so it is very interesting for academic use as well
+
+0:03:51.140,0:03:54.420
+(What philosophy do Slackware follow?)
+
+0:03:55.220,0:03:59.940
+Slackware has a philosophy called KISS, Keep It Simple Stupid
+
+0:03:59.940,0:04:04.080
+This philosophy was created in the US Navy, 1960
+
+0:04:04.080,0:04:08.480
+And it aims to keep things simple as possible
+
+0:04:08.480,0:04:11.980
+discarding what you do not need
+
+0:04:12.100,0:04:16.800
+So Slackware follows this same pattern, that same philosophy
+
+0:04:16.960,0:04:21.380
+You can see the Slackware installer, it uses a Dialog
+
+0:04:21.380,0:04:27.560
+a box, which looks like the 80's or 90's, a very old box
+
+0:04:27.560,0:04:31.100
+since the beginning it uses the same installer
+and that is simple
+
+0:04:31.100,0:04:34.460
+You in a few ...
+
+0:04:34.460,0:04:40.120
+few keystrokes, you'll be able to easily install Slackware
+
+0:04:40.140,0:04:45.560
+So it follow this philosophy to keep as simple as possible
+
+0:04:46.900,0:04:50.140
+(Is the official ISO on the Slackware website outdated?)
+
+0:04:50.460,0:04:55.720
+As you enter the Slackware site the novices, beginners, who are starting on the system
+
+0:04:55.720,0:05:01.380
+they look at ISO there 14.2 released in 2016
+
+0:05:01.400,0:05:04.700
+everyone looks, "Dammit, this is very outdated"
+
+0:05:04.700,0:05:10.260
+but in fact the version available is the stable version
+
+0:05:10.260,0:05:14.820
+Slackware works with two principles, two categories
+
+0:05:14.820,0:05:16.820
+Packages, can I say so
+
+0:05:16.820,0:05:22.360
+one is stable version, which you can use on a server
+
+0:05:22.360,0:05:24.900
+or common use too
+but in an older version
+
+0:05:24.900,0:05:29.560
+and it only receives security updates for the system
+
+0:05:29.560,0:05:31.760
+only security patches
+
+0:05:31.760,0:05:35.460
+While we have another version
+called current
+
+0:05:35.460,0:05:37.840
+which is updated every day
+
+0:05:37.840,0:05:42.400
+every day has updated to Slackware in the current version
+
+0:05:42.400,0:05:45.260
+This version is not so stable
+
+0:05:45.280,0:05:49.020
+It may break because it is a development version
+as the name says current
+
+0:05:49.020,0:05:51.320
+So there are updates almost every day
+
+0:05:51.320,0:05:54.300
+Unfortunately this version does not have a download on the official website
+
+0:05:54.300,0:05:59.840
+but we can find on AlienBOB's website which I can say he is Patrick right-hand
+
+0:05:59.840,0:06:03.160
+You have on his site a current version that you can download
+
+0:06:03.160,0:06:06.860
+and enjoy the latest version
+
+0:06:06.920,0:06:13.200
+It is in development, for example in version 14.2 stable downloaded from official site
+
+0:06:13.200,0:06:18.100
+still with KDE 4 while the current is with KDE 5 Plasma, understand?
+
+0:06:18.100,0:06:22.840
+So there are a lot of cool updates
+you can take a look
+
+0:06:22.840,0:06:28.400
+If you downloaded the stable version you can go there in mirrors
+
+0:06:28.400,0:06:31.960
+located in /etc/slackpkg/mirrors
+
+0:06:31.960,0:06:34.720
+You can go there change the mirror and switch to current version too
+
+0:06:34.720,0:06:39.680
+you can upgrade the system to the current version
+
+0:06:39.680,0:06:44.080
+but I do not recommend that version if you need a totally stable environment
+
+0:06:44.080,0:06:49.080
+this version as I said, it is "stable" but not so much as the stable version
+
+0:06:49.080,0:06:51.240
+So no, Slackware is not outdated
+
+0:06:51.280,0:06:55.000
+and it's being updated daily
+
+0:06:55.000,0:06:59.720
+Patrick has been doing an excellent job for years, years and years
+
+0:07:00.460,0:07:02.700
+(Is Slackware totally free software?)
+
+0:07:04.380,0:07:07.460
+in terms it is and is not
+
+0:07:07.600,0:07:14.400
+there are many softwares with license compatible with the Free Software Foundation
+
+0:07:14.400,0:07:17.375
+but also has proprietary software
+
+0:07:17.380,0:07:20.900
+so it's not a project 100% free software
+
+0:07:20.900,0:07:26.640
+if you access the FSF you will have something like, "Which distributions we do not support"
+
+0:07:26.640,0:07:28.920
+and Slackware is on this list
+
+0:07:29.280,0:07:35.780
+it has proprietary software called xv present inside it by default
+
+0:07:35.780,0:07:38.660
+you can remove it on installation but it is there by default
+
+0:07:39.400,0:07:46.640
+There are other things in the extras like Google Chrome and others, Mozilla Firefox itself
+
+0:07:46.660,0:07:53.380
+as we know it accepts plugins and that are not free software
+
+0:07:53.380,0:07:56.440
+and this goes against this question
+
+0:07:56.440,0:07:59.280
+If you want a distribution 100% free software
+
+0:07:59.280,0:08:04.000
+by default it is not 100% free software
+but you can make it 100% free software
+
+0:08:04.000,0:08:09.340
+I have articles and videos teaching how to make Slackware 100% free software
+
+0:08:09.340,0:08:10.540
+only free software
+
+0:08:10.960,0:08:14.680
+We have a distribution that is derived of Slackware
+
+0:08:14.680,0:08:18.600
+they do not change anything they only remove all software that is not free
+
+0:08:18.660,0:08:20.800
+xv and among others
+
+0:08:20.800,0:08:25.320
+they created their own repository and is called Freenix the old FreeSlack
+
+0:08:25.320,0:08:29.220
+so they have a Slackware 100% free software
+
+0:08:29.220,0:08:35.620
+but also can make Slackware 100% free software with a little trick of magic
+
+0:08:35.620,0:08:36.600
+very cool
+
+0:08:37.340,0:08:40.960
+(Why does Slackware have few official packages?)
+
+0:08:41.580,0:08:47.360
+Yes, Slackware has a few packages by default and if you open the Slackware's ISO
+
+0:08:47.360,0:08:51.620
+we will find the whole Slackware repository around more than a thousand packages
+
+0:08:51.620,0:08:53.755
+is present in Slackware's ISO
+
+0:08:53.760,0:08:55.540
+So there really are few packages
+
+0:08:55.540,0:08:59.320
+but when you do a full install of Slackware it will serve you very well
+
+0:09:00.000,0:09:03.840
+it gets complicated when you want to install other things
+
+0:09:04.520,0:09:07.480
+that's where the SlackBuilds project comes in
+
+0:09:07.480,0:09:10.160
+The community created SlackBuilds project
+
+0:09:10.160,0:09:15.600
+which are recipes, like food recipes
+are recipes written in shell script
+
+0:09:15.720,0:09:20.200
+are recipes that you will compile
+a software, make copies and much more
+
+0:09:20.240,0:09:26.680
+they do not include the program source, include only those scripts and information that you will need
+
+0:09:26.680,0:09:31.640
+at this time I use Slackware, since 2008
+
+0:09:31.800,0:09:36.240
+SlackBuilds serve me very well and I never had any problems
+
+0:09:36.240,0:09:39.320
+"ohh, I did not find this software there X or Y"
+
+0:09:39.320,0:09:43.080
+I always found software using
+SlackBuilds. It's very complete
+
+0:09:43.080,0:09:47.880
+so it's from the source, you'll have to compile it when use SlackBuilds
+
+0:09:47.920,0:09:49.880
+You can contribute
+
+0:09:49.880,0:09:54.400
+you can contribute, if you know how to programming a little in shell script
+
+0:09:54.520,0:09:57.480
+you can contribute to the SlackBuilds project
+
+0:09:57.800,0:10:01.840
+creating your recipes for the project
+and it will help a lot of people
+
+0:10:01.840,0:10:06.200
+The biggest software I have there in present date is DokuWiki
+
+0:10:06.200,0:10:09.800
+is like a Wikipedia created in PHP
+
+0:10:09.960,0:10:14.320
+and I'm the maintainer of this script, this recipe to use DokuWiki
+
+0:10:14.320,0:10:16.315
+so you will not get stuck only in official packages
+
+0:10:16.320,0:10:22.160
+we also have the SlackOnly website. Which provides pre-compiled packages
+
+0:10:22.160,0:10:25.400
+you just go there and do installpkg
+to install this package
+
+0:10:25.400,0:10:26.920
+so there's SlackOnly
+
+0:10:26.920,0:10:33.480
+have many softwares for Slackware
+there is much that you can enjoy
+
+0:10:33.600,0:10:41.600
+SlackBuilds and SlackOnly are the 
+ones I recommend for Slackware users
+
+0:10:42.320,0:10:45.800
+(Does Slackware have a package manager?)
+
+0:10:46.360,0:10:49.520
+Users starting in Slackware
+
+0:10:49.520,0:10:53.640
+they get lost a lot in this issue of package management
+
+0:10:53.760,0:10:56.000
+there are a lot of misinformation on the internet
+
+0:10:56.000,0:11:01.000
+that says Slackware does not have a package manager, that's a lie
+
+0:11:01.000,0:11:05.080
+it does have a low-level package manager called pkgtools
+
+0:11:05.080,0:11:08.800
+which are a lot of tools,
+made in shell script
+
+0:11:08.800,0:11:13.240
+has the installpkg to install packages,
+removepkg to remove packages
+
+0:11:13.240,0:11:17.160
+upgradepkg to update packages
+
+0:11:17.160,0:11:19.720
+we have makepkg to create a package
+
+0:11:19.720,0:11:23.000
+has a low-level manager
+with what you need
+
+0:11:23.000,0:11:25.915
+around year of 2008 was inserted from the extra
+
+0:11:25.920,0:11:29.480
+a script also in shell, called slackpkg
+
+0:11:29.480,0:11:32.800
+created by a Brazilian, Piter Punk
+a hug for him <3
+
+0:11:32.800,0:11:38.920
+and this script aims to update the system's packages,
+upgrade, install, do all this
+
+0:11:38.920,0:11:44.040
+So we can even put slackpkg as a high-level package manager
+
+0:11:44.040,0:11:46.640
+but also does not solve dependencies
+
+0:11:46.640,0:11:51.640
+so we have the low-level package manager
+pkgtools, which does not resolve dependencies
+
+0:11:51.640,0:11:56.840
+and the slackpkg that we can call high-level package manager, that also does not resolve dependencies
+
+0:11:56.840,0:12:01.320
+but we have these package managers
+
+0:12:01.320,0:12:04.600
+The people be afraid but there's nothing to be afraid
+
+0:12:04.600,0:12:09.800
+it's easy just follow the lot of information and documentation available on the internet
+
+0:12:09.800,0:12:13.960
+or go on a slackware IRC channel
+
+0:12:13.960,0:12:17.560
+You'll ask your question and the guys will answer you
+
+0:12:17.560,0:12:21.760
+the Slackware community is very kind
+
+0:12:21.760,0:12:24.440
+for sure they will always help
+
+0:12:25.280,0:12:28.200
+(Can a newbie use Slackware?)
+
+0:12:29.360,0:12:34.040
+The newbie user coming from an easier distribution
+
+0:12:34.040,0:12:35.640
+such as Linux Mint
+
+0:12:35.640,0:12:39.760
+where they give you the interface ready, "use this interface because this distribution is for this"
+
+0:12:39.760,0:12:45.520
+they will have some "problems" in Slackware
+but nothing that a good reading does not solve
+
+0:12:45.520,0:12:50.920
+That's a cool thing about Slackware. "Get this book or get this documentation and read"
+
+0:12:50.920,0:12:53.120
+read so you can use
+
+0:12:53.120,0:12:55.400
+and the name of the project already says this
+
+0:12:55.400,0:13:00.760
+slack that is slack and ware that is ware
+(not make sense in english)
+
+0:13:00.760,0:13:04.920
+so, the system does nothing for you the administrator is who does
+
+0:13:04.920,0:13:08.800
+the administrator is who will have to take on of administering the system
+
+0:13:08.800,0:13:11.600
+the newbie user who never used terminal in his/her life
+
+0:13:11.600,0:13:17.040
+will have a little difficulty but nothing that a good reading does not solve
+
+0:13:17.040,0:13:19.640
+or a little search
+
+0:13:19.640,0:13:23.400
+everybody already was newbie
+
+0:13:23.400,0:13:26.320
+I was a newbie too, everyone was already
+
+0:13:26.320,0:13:29.320
+we got used to the system
+
+0:13:29.320,0:13:33.280
+and the power it gives you ... administrative, is very good
+
+0:13:34.240,0:13:37.680
+(In case of fatality can the project stop?)
+
+0:13:38.200,0:13:41.760
+For who do not know he (Patrick) already had two health problems
+
+0:13:41.760,0:13:45.080
+the project paused at this time
+but then continued normally
+
+0:13:45.080,0:13:50.680
+so when a problem occurs
+the project will continue
+
+0:13:50.680,0:13:53.600
+we have a very strong community a close-knit community
+
+0:13:53.680,0:13:56.280
+We have Patrick right-hands men
+
+0:13:56.280,0:13:59.200
+the AlienBOB, does much for the project
+
+0:13:59.200,0:14:01.840
+We have Workman too he does a lot for the project
+
+0:14:01.840,0:14:05.800
+we have these guys and for sure they will keep the project active
+
+0:14:05.800,0:14:08.000
+of course because it is an almost personal project
+
+0:14:08.000,0:14:12.600
+where Patrick decides what happens or not in the distribution
+
+0:14:12.600,0:14:15.520
+there's a lot of him in the project
+
+0:14:15.520,0:14:20.720
+What we see in Slackware project is a lot of Patrick's vision
+
+0:14:20.720,0:14:27.320
+What will happen when someone else maintains the project?
+
+0:14:27.320,0:14:30.640
+I do not know how it will be or if the community will maintain it. I do not know
+
+0:14:30.640,0:14:33.400
+will have a little of the vision of that person too
+
+0:14:33.720,0:14:37.520
+it may be that the person wants to change but the community will not allow
+
+0:14:37.520,0:14:40.480
+"Oops, let's keep the project objective"
+
+0:14:40.480,0:14:42.720
+this is what happened to the Debian project
+
+0:14:42.840,0:14:48.320
+Ian Murdock was the founder of the Debian project
+died and the project continued
+
+0:14:48.320,0:14:51.915
+nowadays the Debian project is as strong as ever
+
+0:14:51.920,0:14:53.720
+so the same will happen with the Slackware project
+
+0:14:53.720,0:14:57.800
+something happened with Patrick? OK, but the project will continue this project can not die
+
+0:14:57.800,0:14:59.800
+it's a historical project
+
+0:15:01.000,0:15:04.640
+(Is Slackware's website outdated?)
+
+0:15:05.160,0:15:09.520
+who access the Slackware project website which is slackware.com
+
+0:15:09.520,0:15:15.840
+users are accustomed to this design of the 2000s
+
+0:15:15.840,0:15:18.840
+They look and say, "Jesus, why is it so old?"
+
+0:15:18.840,0:15:23.680
+They still use frames on the site
+
+0:15:23.680,0:15:28.720
+but the purpose of the site such as the project philosophy itself, KISS philosophy
+
+0:15:28.720,0:15:30.720
+which is to keep as simple as possible
+
+0:15:31.040,0:15:33.840
+he kept it, it's serving, it's working, it's okay
+
+0:15:33.840,0:15:39.200
+older users use Links or Lynx
+terminal browser
+
+0:15:39.200,0:15:43.840
+they browsing there and when you enter the Slackware website... you can test there
+
+0:15:43.840,0:15:48.440
+use the Links and the URL which is www.slackware.com
+
+0:15:48.440,0:15:52.200
+you will see that navigation is perfect when using Links
+
+0:15:52.200,0:15:56.240
+you can do everything there and much faster than clicking on a browser
+
+0:15:56.240,0:16:00.120
+such as Google Chrome, Firefox, IceCat, anyway
+
+0:16:00.120,0:16:03.760
+so it's much simpler and easier using this text mode browser
+
+0:16:03.760,0:16:06.980
+formerly we had to make a mess
+
+0:16:06.980,0:16:12.560
+there was slackpkg in the extras but not everyone who used it. So what we did?
+
+0:16:12.560,0:16:17.680
+we went there in the Slackware changelog, watched what was updated, what needed to be updated
+
+0:16:17.680,0:16:22.560
+We would go in any mirror and download it
+
+0:16:22.560,0:16:27.720
+we opened two terminals compared and downloaded them
+compare the version with of the system
+
+0:16:27.720,0:16:31.280
+"Oh, you have to upgrade", so we used the D key on Links and downloaded into a directory
+
+0:16:31.280,0:16:36.920
+then all packages were within this directory
+
+0:16:36.920,0:16:45.280
+then we do an upgradepkg *.t?z
+where "?" means any character
+
+0:16:45.280,0:16:48.320
+or just tgz or txz, anyway
+
+0:16:48.320,0:16:52.440
+enter key and all packages were updated, simple as well
+
+0:16:52.440,0:16:56.880
+there are people who still do it
+I myself did this a lot
+
+0:16:56.880,0:17:02.600
+nowadays I use slackpkg for convenience and to be more practical too
+
+0:17:02.600,0:17:09.040
+certainty the idea, "if it is working correctly, there is no reason to change"
+
+0:17:09.040,0:17:13.360
+also serves for those people who use a text mode browser
+
+0:17:13.360,0:17:19.080
+for sure stayed that way because of it too
+
+0:17:20.000,0:17:23.760
+(The first package manager in the Linux history?)
+
+0:17:24.040,0:17:26.400
+The fact that few people know
+
+0:17:26.400,0:17:32.480
+is that Slackware had the honor of having the first package manager in the Linux world
+
+0:17:32.480,0:17:36.640
+launched in 1994, 93/94
+
+0:17:36.640,0:17:41.160
+came before dpkg, before the rpm, came before all those
+
+0:17:41.160,0:17:45.000
+they was the first package manager in the Linux history
+
+0:17:46.480,0:17:52.680
+formerly on Unix or even in the early generations of Linux distributions
+
+0:17:52.680,0:17:58.560
+it was all done in the compilation everything manually
+
+0:17:58.560,0:18:03.200
+you had read the README what all SlackUser does and people who compile
+
+0:18:03.200,0:18:06.680
+read the README, see what is the step by step, what you have to follow
+
+0:18:06.680,0:18:11.680
+then by the terminal in practice of course had to make some adjustments to run
+
+0:18:11.680,0:18:17.000
+do this configuration manually to do a build
+
+0:18:17.000,0:18:22.200
+the package manager came to do that
+Patrick had this vision
+
+0:18:22.200,0:18:31.000
+"let's pile up all the compiled put it together in one place and pack it"
+
+0:18:31.000,0:18:35.960
+the Slackware package is just a compressed little tar
+
+0:18:35.960,0:18:43.240
+xz or gz (which is gzip) and let's pack that
+Let's pack everything you need in one place
+
+0:18:43.240,0:18:48.160
+then we will do what?
+we extract it to the root of the user, then remove
+
+0:18:48.160,0:18:52.960
+the Slackware package manager are shell scripts
+
+0:18:52.960,0:18:54.880
+very easy to use
+
+0:18:54.880,0:19:01.040
+and the person can help resolve bugs in those scripts.
+Very cool, that's the coolest
+
+0:19:02.080,0:19:05.560
+(Does the project use some kind of public versioning system?)
+
+0:19:06.000,0:19:08.560
+we see these projects more "fad"
+
+0:19:08.560,0:19:12.120
+they use a lot of versioning like Git for example, which is very famous
+
+0:19:12.120,0:19:19.640
+and Slackware does not follow this pattern it's a more closed development where Patrick does it all
+
+0:19:19.680,0:19:26.040
+in the view of an ordinary person who is not in the development
+
+0:19:26.200,0:19:28.080
+This happens to no one intruding
+
+0:19:28.080,0:19:32.080
+when we put in the github or notabug, anyway
+
+0:19:32.080,0:19:37.800
+people will wanting to help and that's good but each person will want to do it in your own way
+
+0:19:37.800,0:19:42.280
+it is normal and good, the freedom that we have
+
+0:19:42.280,0:19:47.040
+but that is bad for a project that has a philosophy and follows a pattern
+
+0:19:47.040,0:19:54.040
+e.g. "Hey, let's add SystemD, let's add a PAM"
+
+0:19:54.080,0:19:58.800
+What is impractical for the project, many people are intruding, "let's do it, let's do that"
+
+0:19:58.800,0:20:04.200
+and it ends up not working
+so Slackware does not have public versioning
+
+0:20:05.200,0:20:08.720
+(Marketing Play? From version 4 to 7...)
+
+0:20:09.080,0:20:15.880
+One historical fact is when Slackware jumped from version 4.0 to 7.0
+
+0:20:15.880,0:20:22.640
+in the 1990s the Slackware project was heavily used
+
+0:20:22.680,0:20:31.120
+but his version implied that the project was out of date
+
+0:20:31.120,0:20:36.200
+while the other distributions were in version 5, version 6, Slackware was in version 4, for example
+
+0:20:36.200,0:20:40.320
+Patrick made a marketing move
+
+0:20:40.320,0:20:48.000
+"Let's jump from version 4 to version 7 to show the people that we are updated like these other distributions"
+
+0:20:48.000,0:20:53.320
+so it was a marketing move, it did not change much to skip 3 versions
+
+0:20:53.320,0:20:55.440
+really was a marketing move.
+
+0:20:56.280,0:20:59.720
+(What do you expect from the project?)
+
+0:20:59.720,0:21:05.720
+I hope the Slackware project has many years of road
+
+0:21:05.720,0:21:08.760
+And that people come to know the project
+
+0:21:08.760,0:21:11.640
+and not reading these things on the internet that others speak
+
+0:21:11.640,0:21:16.400
+"it is an outdated project, not every user can use it", this is a lie
+
+0:21:16.400,0:21:21.040
+Slackware is there for your daily use, on your server
+
+0:21:21.040,0:21:25.240
+and will do very well with learning too
+
+0:21:25.240,0:21:30.800
+you will learn, much, really much using the Slackware Linux distribution
+
+0:21:30.800,0:21:32.760
+so, that's it
+
+0:21:32.760,0:21:35.760
+Thanks, thank you for the opportunity!
+
+0:21:50.000,0:21:55.880
+(This work is licensed under CC BY 4.0 license)
